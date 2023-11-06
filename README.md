@@ -276,7 +276,7 @@ INSERT INTO Salesman1 (salesman_id, name, city, commission) VALUES(5003, 'Lauson
 <img width="599" alt="image" src="https://github.com/AlluguriSrikrishnateja/EX-3-SubQueries-Views-and-Joins/assets/118343892/290ef10d-70af-44a8-9654-8c96ed4e0cc5">
 
 
-
+# RESULT : Thus the output of the SubQueries , Views and Joins are verified successfully .
 
 
 
